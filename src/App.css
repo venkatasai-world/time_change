@@ -1,0 +1,22 @@
+
+.heading1{
+  color:red;
+}
+.but1{
+  color: gray;
+}
+
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;   
+  align-items: center;      
+  background: #eaf6ff
+;
+}
+.container {
+  text-align: center;
+}
+button {
+  background-color: #4facfe;}

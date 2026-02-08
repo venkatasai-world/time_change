@@ -1,16 +1,60 @@
-# React + Vite
+# ⏰ Time Change – Live Clock React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌐 **Live Demo:** [https://time-change.vercel.app/](https://time-change.vercel.app/)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 About the Application
 
-## React Compiler
+**Time Change** is a clean and simple React web app that displays the current time and updates instantly when the user clicks a button. It is designed with a light UI, smooth experience, and beginner‑friendly React concepts.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Key Features (5 Points)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✅ Displays real‑time current system time
+✅ Updates instantly on button click
+✅ Built using React Hooks (`useState`)
+✅ Clean light‑color UI for easy reading
+✅ Deployed live on Vercel for fast performance
+
+---
+
+## 📸 Live Output Preview
+
+<img src="./output.png" alt="Live Output of Time Change App" width="600" />
+
+---
+
+## 🛠 Tech Stack
+
+* React.js
+* JavaScript (ES6)
+* CSS3
+* Vercel (Deployment)
+
+---
+
+## 📸 What the App Does
+
+• Shows current time in large readable format
+• Button refreshes time instantly
+• Perfect beginner React mini‑project
+
+---
+
+## 🎯 Why This Project Is Useful
+
+This project helps beginners learn:
+
+✔ React components
+✔ State management with hooks
+✔ Event handling
+✔ UI alignment and styling
+✔ Real‑world deployment
+
+---
+
+### ⭐ If you like this project, feel free to star it and share!
+
+Happy Coding 🚀

@@ -10,7 +10,7 @@
 
 
 
-## ✨ Key Features 
+## Key Features 
 
 ✅ Displays real‑time current system time
 ✅ Updates instantly on button click
